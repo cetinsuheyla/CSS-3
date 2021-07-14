@@ -1,0 +1,26 @@
+span {
+  background-color: #57837B;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+div {
+  background-color: #F1ECC3;
+  width: 200px;
+  height: 200px;
+  float:left;
+
+}
+
+p {
+  background-color: #C9D8B6;
+  width: 100px;
+  height: 30px;
+  clear:both;
+}
+
+footer {
+  text-align: center;
+}
